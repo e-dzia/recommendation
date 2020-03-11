@@ -1,4 +1,4 @@
-# Simple recommender systems
+# Lab1 - Simple recommender systems
 
 Our simple implementation includes content-based filtering and collaborative filtering (SVD, KNN), as well as hybrid model.
 
