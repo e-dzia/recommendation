@@ -1,4 +1,4 @@
-lab2/sars_tutorial-master/datasets/
+sars_tutorial-master/datasets/
 input_data
 
 
@@ -132,7 +132,6 @@ venv.bak/
 lab1/input_data/
 lab2/data/
 lab2/finalized_model.sav
-lab2/sars_tutorial-master/finalized_model.sav
 dmypy.json
 
 # Pyre type checker
