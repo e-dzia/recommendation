@@ -1,4 +1,4 @@
-# Lab2 - Advanced problems of recommendation systems
+# Lab2 - Advanced problems of recommender systems
 
 Our implementation includes clustering recommendation and sequential approaches 
 based on personalized Markov chains, association rules, RNN and prod2vec. 
